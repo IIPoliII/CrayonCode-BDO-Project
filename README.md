@@ -12,4 +12,11 @@ Works in Fullscreen and Windowed Mode (If the text is a little blurry in windowe
 BDO must be visible and active (Doesn't work minimized)
 
 
-Discussion and older versions with more features can be found at https://www.elitepvpers.com/forum/black-desert/4268940-autoit-crayoncode-bot-project-opensource-free.html
+Discussion and older versions with more features can be found at https://www.elitepvpers.com/forum/black-desert/4268940-autoit-crayoncode-bot-project-opensource-free.html  
+
+**ChangeLog**  
+Updated to work with July 13th Patch  
+Added the new Inventory Reference
+
+**Donate**
+https://www.paypal.me/QStarMacroLLC
